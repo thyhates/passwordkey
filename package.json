@@ -1,0 +1,22 @@
+{
+  "name": "passwordkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-2.1.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyhates/passwordkey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyhates/passwordkey/issues"
+  },
+  "homepage": "https://github.com/thyhates/passwordkey#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
