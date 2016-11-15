@@ -16,6 +16,9 @@ $(document).ready(function (e) {
                         password[j] = i + 1;
                     }
                     $(".text" + (j + 1)).css("display", "block");
+                    if (password.length == 6) {
+                        alert(password.join(","));
+                    }
                     return false;
                 }
             }
